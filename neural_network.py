@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 
-@author: Konstantinos Kantoutsis
+@author: Chris Giannakidis
 """
 
 import time
